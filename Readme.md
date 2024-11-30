@@ -46,7 +46,7 @@ This project focuses on building a predictive system for determining loan paymen
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, FastAPI, Streamlit  
 - **Model Tracking:** MLflow  
-- **Deployment Tools:** Docker  
+- **Deployment Tools:** Streamlit 
 - **Monitoring:** Arize AI  
 
 ---
@@ -132,8 +132,8 @@ Post-deployment monitoring ensures the model continues to perform well in produc
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/loan-payment-prediction.git
-   cd loan-payment-prediction
+   git clone https://github.com/MISSAOUI-MOHAMED-AMINE/Mlops.git
+   cd Mlops
    ```
 
 2. **Install Dependencies**:
@@ -153,7 +153,7 @@ Post-deployment monitoring ensures the model continues to perform well in produc
 
 5. **Launch Streamlit Dashboard**:
    ```bash
-   streamlit run dashboard.py
+   streamlit run main.py
    ```
 
 6. **Monitor with Arize AI**:
