@@ -1,1 +1,0 @@
-mlflow ui --backend-store-uri file:///C:/Users/msi/Desktop/mlops/mlruns
