@@ -1,0 +1,28 @@
+# Data Manipulation and Visualization
+pandas==2.1.1
+numpy==1.26.0
+matplotlib==3.8.0
+seaborn==0.12.2
+
+# Machine Learning
+scikit-learn==1.3.1
+xgboost==1.7.6
+imbalanced-learn==0.11.0
+
+# Deployment
+fastapi==0.103.0
+uvicorn[standard]==0.23.2
+
+# Dashboard
+streamlit==1.25.0
+
+# Experiment Tracking
+mlflow==2.8.1
+
+# Monitoring
+arize-ai==1.12.0
+
+# Additional Tools
+joblib==1.4.1
+pyyaml==6.0
+
