@@ -103,7 +103,7 @@ A FastAPI-based RESTful API was developed for seamless model integration:
   - `/health`: Monitors API health.  
 - **Dockerized Deployment:** Ensures portability across environments.
 
-**Tools Used:** FastAPI, Uvicorn, Docker.
+**Tools Used:** FastAPI, Uvicorn.
 
 ---
 
