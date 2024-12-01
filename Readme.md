@@ -62,6 +62,8 @@ The EDA phase involves understanding the dataset and identifying patterns, trend
 - **Visualizations:** Creating histograms, scatter plots, and heatmaps for insights.
 - **Class Imbalance Analysis:** Understanding the distribution of payment outcomes.
 
+  NB.: You can find the dataset in this link: https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied
+
 **Tools Used:** Matplotlib, Seaborn, Pandas Profiling.
 
 ---
