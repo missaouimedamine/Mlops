@@ -2,6 +2,9 @@
 
 This repository contains a comprehensive end-to-end machine learning pipeline for predicting loan payment outcomes. It covers the entire lifecycle of a data-driven project, from exploratory data analysis (EDA) and preprocessing to model development, deployment, and monitoring.
 
+![seque (1)](https://github.com/user-attachments/assets/cf2c4db1-4a4d-43b0-b34f-3b213bacaf41)
+
+
 ---
 
 ## Table of Contents
