@@ -137,7 +137,7 @@ Post-deployment monitoring ensures the model continues to perform well in produc
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/MISSAOUI-MOHAMED-AMINE/Mlops.git
+   git clone https://github.com/missaouimedamine/Mlops.git
    cd Mlops
    ```
 
