@@ -1,6 +1,11 @@
 # Loan Payment Prediction: End-to-End Machine Learning Project 🚀
 
 This repository contains a comprehensive end-to-end machine learning pipeline for predicting loan payment outcomes. It covers the entire lifecycle of a data-driven project, from exploratory data analysis (EDA) and preprocessing to model development, deployment, and monitoring.
+🔗 **Try out the application**:  
+You can experience the app directly by following the link below:
+
+[**Loan_Payment_Prediction**](https://huggingface.co/spaces/MISSAOUI/Loan_Payment_Prediction)
+
 
 ![seque (2)](https://github.com/user-attachments/assets/9ec830c6-adab-47fe-b510-9f4e2bc11999)
 
